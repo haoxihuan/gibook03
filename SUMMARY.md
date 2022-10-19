@@ -1,7 +1,9 @@
-* [第一章](chapter1/README.md)
- - [第一节](chapter1/pengxiaobai.md)
- - [第二节](chapter1/section2.md)
-* [第二章](chapter2/README.md)
- - [第一节](chapter2/section1.md)
- - [第二节](chapter2/section2.md)
-* [结束](end/README.md)
+# Table of contents
+
+* [目录](README.md)
+* [第一期](di-yi-qi.md)
+* [第二期](di-er-qi.md)
+* [第三期](di-san-qi.md)
+* [第六期](di-liu-qi.md)
+* [爱的选择](ai-de-xuan-ze.md)
+* [讨论](tao-lun.md)
